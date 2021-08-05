@@ -16,5 +16,8 @@
     "url": "https://github.com/key0123456789/typescript-for-javascript-developers/issues"
   },
   "homepage": "https://github.com/key0123456789/typescript-for-javascript-developers#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.1.0"
+  }
 }
