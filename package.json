@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev --respawn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/key0123456789/typescript-for-javascript-developers#readme",
   "description": "",
   "devDependencies": {
-    "ts-node": "^10.1.0"
+    "ts-node": "^10.1.0",
+    "ts-node-dev": "^1.1.8"
   }
 }
